@@ -1,4 +1,1 @@
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("Family tree loaded successfully!");
-});
-
+console.log("My sis very innocent and cute");
